@@ -106,7 +106,7 @@ data.head()
 ![image](https://github.com/user-attachments/assets/fe769dca-aa30-48d2-95a7-38598928eeb1)
 
 
-##X1_SCALED VALUE:
+## X1_SCALED VALUE:
 
 ![image](https://github.com/user-attachments/assets/9f3fe596-a674-4809-8e1c-4ddf1b3cee37)
 
